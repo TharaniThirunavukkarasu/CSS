@@ -1,0 +1,15 @@
+ul li{
+    /*list-style-type:square;
+    font-size:40px;
+    color:blue;
+    list-style-position:inside;
+    list-style-image:url(./download.jpg);*/
+}
+li span 
+{
+    color: green;
+}
+li
+{
+color:goldenrod;
+}

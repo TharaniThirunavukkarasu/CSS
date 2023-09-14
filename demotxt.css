@@ -1,0 +1,29 @@
+.head_one
+{
+color:blue;font-size:50x;
+text-align: center;
+
+}
+.head_two
+{
+color:rgb(5, 148, 214);
+}
+.head_three
+{
+color:brown;
+}
+p
+{
+color: purple;
+font-size: 25px;
+text-align:left;
+text-align-last: right;
+text-decoration:none;
+text-emphasis:triangle blue;
+text-transform:lowercase;
+text-indent:100px;
+line-height: 30px;
+word-spacing: 20px;
+direction: ltr;
+white-space:break-spaces;
+}

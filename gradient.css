@@ -1,0 +1,13 @@
+div{ 
+     width: 50%; 
+     height:600px; 
+    /* background-image:linear-gradient(to right,blue,green); */
+    /* background-image:linear-gradient(blue,green); */
+    /* background-image:linear-gradient(to top left,blue,green,orange); */
+    /* background-image:linear-gradient(to right,blue,green,yellow, pink,cyan,maroon); */
+    /* background-image:repeating-linear-gradient(35deg,blue 4%,green 3%,pink 6%); */
+     background-image:repeating-conic-gradient(blue 0deg 20deg,green 20deg 90deg,orange 90deg 270deg,maroon 270deg 360deg); 
+     border-radius:50%;
+     /* border-radius:50%; */
+     /* /* background-image:radial-gradient(green 4%,blue 3%,yellow 2%);  */
+}

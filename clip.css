@@ -1,0 +1,12 @@
+h1{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight:900px;
+font-size:50px;
+text-align: center;
+background-image:url(C:\Users\WELCOME\Desktop\CSS-repository\css demo\flower.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-clip:text;
+-webkit-background-clip:text;
+color:transparent;
+}

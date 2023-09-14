@@ -1,0 +1,22 @@
+@import url("demoimport.css");
+
+h1{
+    color:rgba(42, 221, 39, 1);
+    background-color:hsla(45,60%,40%,0.6);
+}
+h2{
+    color: #15b1a9;
+    background-color:#b1156b;
+}
+p{
+    background-color:orangered ;
+}
+*{
+    background-color:hotpink;
+}
+
+
+.color_1
+{
+ color:darkred   
+}

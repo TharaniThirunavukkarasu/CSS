@@ -1,0 +1,9 @@
+ul li{
+ display:inline; 
+ margin-left:20px;  
+ float:left;
+}
+h1{
+background-color: blue;
+display:inline;
+}

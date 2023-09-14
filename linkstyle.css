@@ -1,0 +1,33 @@
+a
+{color:green;
+ text-decoration: none;
+ font-size:30px;
+
+}
+a:hover
+{
+text-decoration: underline;
+color:chartreuse;
+background-color: blue;
+}
+a:active
+{
+
+    color:chartreuse;
+}
+
+.inp_one:focus{
+    border:10px solid darkturquoise;
+    background-color: chocolate;
+    
+}
+button:focus
+{
+    border:10px;
+    background-color: forestgreen;
+}
+.button_one
+{
+    border: 10px solid rgb(221, 14, 128);
+    background-color: darkorange;
+}

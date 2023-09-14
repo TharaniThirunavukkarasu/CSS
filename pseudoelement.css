@@ -1,0 +1,25 @@
+p::first-letter{
+    color:rgb(76, 0, 255);
+    font-size:50px;
+}
+.minipara::first-line{
+    color:brown;
+}
+h1::before{
+    content:url();
+}
+h1::after{
+    content:url();
+}
+::marker{
+    color:gold;
+    font-size:50px;
+}
+::selection{
+    background-color:black;
+    color:yellow;
+}
+::placeholder{
+    color:red;
+    font-size: 25px;
+}

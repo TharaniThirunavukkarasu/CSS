@@ -1,0 +1,16 @@
+div h1
+{
+color:rgb(11, 231, 231)
+}
+div>h2
+{
+color: darkgreen;
+}/*
+div~h2
+{
+    color:blueviolet
+}
+div+h3
+{
+    color:blue
+}

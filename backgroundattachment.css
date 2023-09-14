@@ -1,0 +1,13 @@
+div{
+    color:red;
+    border:20px solid purple;
+    font-size:medium;
+    padding:100px;
+    /* background:yellow url("./download1.png"); */
+    /* background-repeat:no-repeat; */
+    height:100vh;
+    width: 100%;
+    /* background-origin:border-box; */
+    /* background-attachment:scroll; */
+    background:yellow url("./download1.png") repeat-x 0 0 fixed border-box;
+}

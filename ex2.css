@@ -1,0 +1,16 @@
+table,th,td{
+    border-bottom:3px solid blue;
+    border-collapse: collapse;
+    text-align: center;
+}
+table{
+    margin:0 auto;
+    height: 400px;
+    width:800px;
+}
+caption{
+    color:rgb(231, 12, 115);
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,19 @@
+.container
+{    max-width:50%;
+    height: 80%;
+    background-color: darkgoldenrod;
+    border: 5px solid;
+    margin: auto;
+}
+.color
+{
+    background-color: hotpink;
+    height: 300px;
+    width: 50%;
+    margin:0 auto;
+    margin-left:10%;
+    margin-right:10%;
+    padding-left: 300px;
+    padding-top: 100px;
+
+}
